@@ -12,7 +12,7 @@ If the use of this simulator leads to a scientific publication, please, cite our
 >  volume={},
 >  number={},
 >  pages={1--18},
->  DOI={10.1007/s11235-022-00928-9},
+>  DOI={},
 >  year={2024},
 >  note={_Under review_},
 >  }
