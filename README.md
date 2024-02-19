@@ -14,7 +14,7 @@ If the use of this simulator leads to a scientific publication, please, cite our
 >  pages={1--18},
 >  DOI={},
 >  year={2024},
->  note={_Under review_},
+>  note={_Under review_}
 >  }
 
 More details about our dataset can be found in the above mentioned article. When the full version of our paper will be available, more details and complementary datasets will be presented on this repository.
