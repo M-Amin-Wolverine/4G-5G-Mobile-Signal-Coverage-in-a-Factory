@@ -9,15 +9,16 @@ If the use of this simulator leads to a scientific publication, please, cite our
 >  title={Measurement and Analysis of 4G/5G Mobile Signal Coverage in a Heavy Industry Environment},
 >  author={Polak, Ladislav and Kufa, Jan and Sotner, Roman, and Fryza, Tomas},
 >  journal={Sensors},
->  volume={},
->  number={},
+>  volume={24},
+>  number={8},
 >  pages={1--18},
->  DOI={},
+>  DOI={10.3390/s24082538},
 >  year={2024},
->  note={_Under review_}
 >  }
 
-More details about our dataset can be found in the above mentioned article. When the full version of our paper will be available, more details and complementary datasets will be presented on this repository.
+The online version of the article is available [here](https://www.mdpi.com/1424-8220/24/8/2538).
+
+More details about our dataset can be found in the above mentioned article.
 
 
 ## Acknowledgement
