@@ -23,7 +23,7 @@ More details about our dataset can be found in the above mentioned article.
 
 ## Acknowledgement
 
-This research was supported by the Internal Grant Agency of Brno University of Technology (BUT) under project no. FEKT-S-23-8191.
+This research was supported by the Internal Grant Agency of Brno University of Technology (BUT) under project no. FEKT-S-23-8191 and by TACR project no. FW03010366.
 
 
 <!-- ## License
