@@ -14,9 +14,8 @@ If the use of this simulator leads to a scientific publication, please, cite our
 >  pages={1--18},
 >  DOI={10.3390/s24082538},
 >  year={2024},
+>  Link={[Online](https://www.mdpi.com/1424-8220/24/8/2538)},
 >  }
-
-The online version of the article is available [here](https://www.mdpi.com/1424-8220/24/8/2538).
 
 More details about our dataset can be found in the above mentioned article.
 
