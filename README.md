@@ -1,20 +1,20 @@
 # 4G-5G-Mobile-Signal-Coverage-in-a-Factory
 
-This repository contains the dataset from measurements of 4G and 5G mobile signal coverage in the factory of [Tajmac-ZPS s.r.o.](https://www.tajmac-zps.cz/tajmac-group/), located in Zlín, Czech Republic. The measurment were conducted in  at various locations within the factory.
-More details are available in the article "_Measurement and Analysis of 4G/5G Mobile Signal Coverage in a Heavy Industry Environment_". 
+The research was carried out at the Arak Steel Company and Tabarestan Plastic Company. factories located at Qom and Arak provinces in Iran, renowned companies involved in the manufacturing and distribution of machine tools. With a fully equipped facility that includes a foundry located on site, companies can manage all aspects of machine production from start to finish. This includes everything from designing and producing models and castings to their treatment, machining, and final assembly. The factory's unique environment, with challenges such as multipath propagation, noise, and a high level of foot traffic, provides an excellent opportunity to evaluate the effectiveness of wireless networks in a real-world industrial setting.
+More details are available in the article "_Integration of advanced industrial technologies and 4G/5G/6G generation network and newest generation of network analyzer devices with analog to information converters for fault detection and control systems and related issues_". 
 
 If the use of this simulator leads to a scientific publication, please, cite our work: 
 
->@article{Polak2024,
->  title={Measurement and Analysis of 4G/5G Mobile Signal Coverage in a Heavy Industry Environment},
->  author={Polak, Ladislav and Kufa, Jan and Sotner, Roman, and Fryza, Tomas},
->  journal={Sensors},
->  volume={24},
->  number={8},
->  pages={1--18},
->  DOI={10.3390/s24082538},
+>@article{M-Amin2024,
+>  title={Integration of advanced industrial technologies and 4G/5G/6G generation network and newest generation of network analyzer devices with analog to information converters for fault detection and control systems and related issues},
+>  author={Mohammad Amin Khodadadi,Mahdi Eslami},
+>  journal={Undecided},
+>  volume={--},
+>  number={-},
+>  pages={1--26},
+>  DOI={-------------------},
 >  year={2024},
->  Link={[Online](https://www.mdpi.com/1424-8220/24/8/2538)}
+>  Link={[Online](----------------------------------------)}
 >  }
 
 More details about our dataset can be found in the above mentioned article.
@@ -22,7 +22,7 @@ More details about our dataset can be found in the above mentioned article.
 
 ## Acknowledgement
 
-This research was supported by the Internal Grant Agency of Brno University of Technology (BUT) under project no. FEKT-S-23-8191 and by TACR project no. FW03010366.
+This research was supported by the Internal Grant Agency of Islamic Azad University of Science and Research branch (SRBIAU) under project no. srbi-4022-11-8191 and by EEDep project no. FW01639100666.
 
 
 <!-- ## License
@@ -31,7 +31,7 @@ The presented dataset is available under the MIT License as expressed below.
 
 MIT License
 
-Copyright (c) [2021] [Department of Radio Electronics, Brno University of Technology]
+Copyright (c) [2020] [Department of Radio Electronics, Islamic Azad University of Science and Research branch (SRBIAU)]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
